@@ -2,7 +2,7 @@
 
 Welcome to the **GeeksforGeeks-Problems** repository! 👨‍💻📚
 
-This repository contains my personal solutions to various problems from [GeeksforGeeks](https://www.geeksforgeeks.org/). It serves as a reference for anyone preparing for coding interviews, practicing data structures and algorithms, or simply brushing up on problem-solving skills.
+This repository contains my very own personal solutions to various problems from [GeeksforGeeks](https://www.geeksforgeeks.org/). It serves as a reference for anyone preparing for coding interviews, practicing data structures and algorithms, or simply brushing up on problem-solving skills.
 
 ---
 
